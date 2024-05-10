@@ -4,5 +4,4 @@
 *.csv
 
 # ignore ALL files in directory
-Dataset/
 Code/.ipynb_checkpoints/
