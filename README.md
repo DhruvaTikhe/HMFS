@@ -1,6 +1,4 @@
-## Hybrid Metaheuristic Feature Selection
-## For Intrusion Detection in IoT based Cyber Security Environments
-## Using Improved Salp Swarm Algorithm
+## Hybrid Metaheuristic Feature Selection For Intrusion Detection in IoT based Cyber Security Environments Using Improved Salp Swarm Algorithm
 
 This project focuses on a Hybrid Metaheuristic approach for Feature Selection in IoT based Cyber Security Intrusion Detection
 Flow of the project:
