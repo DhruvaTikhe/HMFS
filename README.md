@@ -14,7 +14,7 @@ Flow of the project:
 5. Deep Learning Classification
 
 
-***Dataset:*** ToN IoT ([Find it here](https://research.unsw.edu.au/projects/toniot-datasets)) (Refer the image in the repository to find the exact location)
+***Dataset:*** IoT ID 20 ([Find it here](https://research.unsw.edu.au/projects/toniot-datasets)) (Refer the image in the repository to find the exact location)
 
 ***Preprocessing:*** Standard machine learning preprocessing including SMOTE, Sampling, Manual Feature Engineering
 
