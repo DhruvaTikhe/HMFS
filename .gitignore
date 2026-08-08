@@ -1,7 +1,0 @@
-# ignore ALL extensio files
-*.V2
-*.log
-*.csv
-
-# ignore ALL files in directory
-Code/.ipynb_checkpoints/
